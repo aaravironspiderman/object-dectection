@@ -1,0 +1,11 @@
+body{
+    text-align:center;
+    color: aqua;
+    font-size: 30px;
+}
+.menu{
+    list-style: none;
+    position:absolute;
+    top: 80px;
+    right: 700px;
+}
